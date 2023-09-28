@@ -1,5 +1,9 @@
 {
-    "yaml.schemas": {
-        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/carlo/Documents/Workspace/recipe-app-api/.github/workflows/checks.yml"
-    }
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/carlo/Documents/Workspace/recipe-app-api/.github/workflows/checks.yml"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
 }
